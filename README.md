@@ -8,7 +8,8 @@
 
 ## 🚀 Tech Stack I Work With
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript  
+- **Languages:** Java,Python,C
+- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript
 - **Backend:** Node.js, Express.js, Spring Boot, Python  
 - **Databases:** MongoDB, MySQL, SQLite  
 - **Tools & Platforms:** Git, Vercel, Netlify, Docker, Socket.IO  
